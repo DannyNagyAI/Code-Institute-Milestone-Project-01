@@ -2,7 +2,7 @@ README.md
 
 # DOGGY RESCUE 
 
-![alt text](https://github.com/DannyNagyAI/Code-Institute-Milestone-Project-01/blob/main/img/doggy_rescue_teaser.png "Header of the Homepage")
+![alt text](https://github.com/DannyNagyAI/Code-Institute-Milestone-Project-01/blob/main/img/doggy_rescue_teaser.jpg "Header of the Homepage")
 
 >This website was made for a fictive **(Doggy Rescue Center)** in Nerja - Spain, that was in great need of buliding a basic functional website.  
 
