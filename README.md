@@ -1,61 +1,108 @@
-# [Start Bootstrap - Scrolling Nav](https://startbootstrap.com/template/scrolling-nav/)
+README.md 
 
-[Scrolling Nav](https://startbootstrap.com/template/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+# DOGGY RESCUE 
 
-## Preview
+![alt text](https://github.com/DannyNagyAI/Code-Institute-Milestone-Project-01/tree/main/img/doggy_rescue_teaser.png "Header of the Homepage")
 
-[![Scrolling Nav Preview](https://assets.startbootstrap.com/img/screenshots/templates/scrolling-nav.png)](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)
+>This website was made for a fictive **(Doggy Rescue Center)** in Nerja - Spain, that was in great need of buliding a basic functional website.  
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-scrolling-nav/)**
+The website displays information about the rescued dogs and their situation in Spain, it also has some information about the rescue center, directions, a page for users to view the available dogs that are in need of help and also a contact page with more information about the adoption process and a form to be able to make the audience/users take contact on their first step in the process of adopting a dog. 
 
-## Status
+My idea was to build the website with a simple and clean user usability and that also had some ingridients that could **(warm up peoples hearts)** in a way that make them feel more caring for the dogs on the website. 
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-scrolling-nav/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-scrolling-nav.svg)](https://www.npmjs.com/package/startbootstrap-scrolling-nav)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-scrolling-nav.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-scrolling-nav)
-[![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav)
-[![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-scrolling-nav?type=dev)
+## User Experience (UX)
+The idea for this project was to build a static front-end website for a Dog Rescue Center in Spain. 
 
-## Download and Installation
+The Dog Rescue Center is interested in getting more people involved in the center, to both help and also to get more friendly people to adopt and help their dogs in need. 
 
-To begin using this template, choose one of the following options to get started:
+The audience for this website are people that care about and love dogs all over the world, and the purpose is to make them either share some information from the website or hopefully adopt the dogs themself. 
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template/scrolling-nav/)
-* Install via npm: `npm i startbootstrap-scrolling-nav`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-scrolling-nav.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-scrolling-nav)
+**To be able to help the Doggy Rescue with their needs, I had to include:**
+- A simple way of navigating around the page. 
+- Infomation about their history and the Doggy Rescue center. 
+- Infomation about their location. 
+- Showcase photos of dogs in needs to motivate people to visit and share with their friends. 
+- Provide detail information about the dogs and the adoption process.  
+- A contact section with a form. 
 
-## Usage
+>I tried to stay on the same path during the entire project with both colors and pictures. 
 
-### Basic Usage
+ ### Mockup for the Project
+ Link to the Doggy Rescue Mockup made in Figma: 
+>https://www.figma.com/file/qy4sdGyd1rSLJnwgxMJqpd/Doggy-Resuce?node-id=0%3A1
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+## Features
 
-### Advanced Usage
+### [Home Page](https://github.com/DannyNagyAI/Code-Institute-Milestone-Project-01/blob/main/index.html)
+- Hero Image - Just a big and lovely picture with a woman and a dog, with some "magic" Disney inspired text. 
+- Information why you should adopt a dog. 
+- Button, a large button that helps the users to navigate to the dogs page faster. 
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+### [About Page](https://github.com/DannyNagyAI/Code-Institute-Milestone-Project-01/blob/main/about.html)
+ - Hero Image - Just a big and lovely picture with a woman and a dog,  with some "magic" Disney inspired text. 
+ - Infomation about the Doggy Rescues history, facility and directions. 
+ - A big map from Google Maps that show the location to the Doggy Rescue center. 
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
+### [Dogs Page](https://github.com/DannyNagyAI/Code-Institute-Milestone-Project-01/blob/main/dogs.html)
+- A big image of a dog enjoying freedom to max, with some "magic" Disney inspired text.
+- A section with information about the dogs.  
+- 
+### [Adoption Page](https://github.com/DannyNagyAI/Code-Institute-Milestone-Project-01/blob/main/adoption.html)
+- Contact Us - this feature provides a form to the user in which they can contact us to get more information on booking the Rolling Stones for an event
 
-## Bugs and Issues
+### All Pages
+- All pages include a navbar with links to the other pages and a logo. 
+- All pages include a footer with information about ficiton partners, links to the other pages and contact information. 
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-scrolling-nav/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/template/scrolling-nav/).
+## Technologies used in the project
+- **HTML5** 
+- **CSS** 
+- **[Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/)** 
+- **[JQuery](https://jquery.com/)** 
+- **[JavaScript](https://www.javascript.com/)**
 
-## About
+## Testing
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+I have tested the Doggy Rescue website and was unable to find any error or bad links on the website. 
 
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
+**Devices Used:**
+-	iPhone x – iOS 11.4
+-	iPad – iOS 11.2.2 & iOS 11.4.1
+-	MacBook – iOS 11.4
+-	PC – Windows 10
 
-Start Bootstrap was created by and is maintained by **[David Miller](https://davidmiller.io/)**.
+**Browsers Used:**
+-	Chrome 
+-	Firefox
+-	Safari
 
-* <https://davidmiller.io>
-* <https://twitter.com/davidmillerhere>
-* <https://github.com/davidtmiller>
+### Issues/problems/improvements
+No known bugs or bigger problems, however some minor things should be fixed: 
+- The "active" menu-item, when you scroll on page, the active button stops to indicate which page your on (you can still navigate, but active indicator doest not appear active).
+- The form on the contact page is not perfect, might need some adjustments like width of form elements. Also future version might also contain functionality on serverside to actually sending a email message. Probably we will use Python (or Java) language to parse the posted form content.
+- Hero images should be resized to less height, in order to view more of the page content at first glance.
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+### Validation HTML
+All files passed validation at https://validator.w3.org/nu/#textarea
 
-## Copyright and License
+## Deployment
+My website is currently up on Github Pages - https://github.com/DannyNagyAI/Code-Institute-Milestone-Project-01
 
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-scrolling-nav/blob/gh-pages/LICENSE) license.
+## Credits
+
+### Content
+All of the content on the website is an example/fictive. 
+
+### Mentors
+Got a lot of help from my mentor Oluwafemi Medale and also some great coaching from a local Software developer here in Sweden. 
+
+### Media 
+All of the photos used on this site were obtained (and bought) from Shutterstock [here](https://www.shutterstock.com/sv/home)
+
+### Acknowledgements and References
+- [Code Institute](https://www.codeinstitute.net/) - I used what I learned so far from Code Instiute (HTML/CSS/Boostrap). 
+- [Bootstrap](https://startbootstrap.com/template/scrolling-nav) - I used this template to be able to shape the start of my project.
+- [Bootstrap](https://getbootstrap.com/docs/4.5/components/card/) - I used this template to shape the card-part on dogs page. 
+- [Bootstrap](https://mdbootstrap.com/docs/jquery/javascript/google-maps/) - I used this template to be able to show users the location. 
+- [Bootstrap](https://mdbootstrap.com/docs/jquery/forms/basic/) - I used this template to shape my own form on the adoption page. 
+- [Bootstrap](https://mdbootstrap.com/docs/jquery/navigation/footer/) - I used this footer to able to shape the footer on all pages. 
